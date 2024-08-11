@@ -38,21 +38,21 @@ subject: 'Resume'
 
 ### Web Developer
 
-01/24-current, Austin, Texas and remote
+01/24-Current, Austin, Texas and remote
 
 - Design and build web-applications for small-business clients while training in full-stack software development.
 - [vercel.com/chelsea-heres-projects](https://vercel.com/chelsea-heres-projects).
 
 **Technologies used:** Next.js, React, Typescript, Tailwind, Sass, Canva, Figma.
 
-### Senior Software Architect, Hooli
+### Senior Project Manager, EDi
 
-2010-2016, San Francisco, CA
+2020-2022, Austin, TX
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
+- Cross-functional team leader, laid out project schedule and directed internal team for architectural design and documentation.  Collaborated with engineers including coordinating documentation and project QA/QC.  Lead permitting efforts and coordinated with construction administration team.
+- My favorite role was to focus on software standardization and best practice documentation which helped to streamline building information modeling and increase productivity across the business.
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+**Technologies used:** Revit Architecture, Bluebeam, Adobe Indesign, Adobe Photoshop, 
 
 ## Awards & Recognition
 
@@ -67,9 +67,8 @@ subject: 'Resume'
 
 ## Education
 
-### Masters in BS, Example University
+### BArch, University of Texas at Austin
 
 - 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+- Teaching Assistant, Spring 2011
+- Study in Italy, Design Award for Wood Design, Synthesis of Interiors
