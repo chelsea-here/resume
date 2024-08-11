@@ -17,8 +17,7 @@ subject: 'Resume'
 
 ### Proactive and collaborative web developer with strong communication and project management skills. Detail-oriented architect looking for an opportunity to leverage full stack coding proficiencies and grow as a professional programmer.
 
-## Skills
-
+## Skills (Needs work)
 ```programming```
 ```technical communication```
 ```user experience```
@@ -47,7 +46,7 @@ subject: 'Resume'
 2020-2022, Austin, TX
 
 - Cross-functional team leader, laid out project schedule and directed internal team for architectural design and documentation.  Collaborated with engineers including coordinating documentation and project QA/QC.  Lead permitting efforts and coordinated with construction administration team.
-- My favorite unofficial role was to focus on software standardization and best practice documentation which helped to streamline building information modeling and increase productivity across the business.
+- My favorite unofficial role was software standardization and best practice documentation which helped to streamline building information modeling and increase productivity across the business.
 
 **Technologies used:** Revit Architecture, Bluebeam, Adobe Indesign, Adobe Photoshop, 
 
