@@ -54,8 +54,7 @@ subject: 'Resume'
 
 - 02/2023 [Responsive Web Design Certification](https://www.freecodecamp.org/certification/chelsea4568/javascript-algorithms-and-data-structures)
 - 05/2023 [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/chelsea4568/javascript-algorithms-and-data-structures)
-- 
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
+- 05/2023 [Beginner Javascript](https://courses.wesbos.com/account/certificate/648a224ef6a5ae2411309695)
 
 ## Projects
 
