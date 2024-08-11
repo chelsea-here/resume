@@ -20,16 +20,13 @@ subject: 'Resume'
 ## Skills
 
 ```programming```
-```devops```
-```databases```
+```technical communication```
+```user experience```
 ```containers```
-```linux systems administration```
-```webservers```
+```technical problem solving```
 ```project management```
 ```system architecture & design```
 ```entrepreneurship```
-```load/stress testing```
-```WordPress```
 
 **Languages**: JavaScript, Typescript, Python, HTML, CSS, Sass
 **Frameworks**: React, Next.js, Node.js, Tailwind CSS
@@ -50,7 +47,7 @@ subject: 'Resume'
 2020-2022, Austin, TX
 
 - Cross-functional team leader, laid out project schedule and directed internal team for architectural design and documentation.  Collaborated with engineers including coordinating documentation and project QA/QC.  Lead permitting efforts and coordinated with construction administration team.
-- My favorite role was to focus on software standardization and best practice documentation which helped to streamline building information modeling and increase productivity across the business.
+- My favorite unofficial role was to focus on software standardization and best practice documentation which helped to streamline building information modeling and increase productivity across the business.
 
 **Technologies used:** Revit Architecture, Bluebeam, Adobe Indesign, Adobe Photoshop, 
 
