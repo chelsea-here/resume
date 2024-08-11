@@ -50,9 +50,11 @@ subject: 'Resume'
 
 **Technologies used:** Revit Architecture, Bluebeam, Adobe Indesign, Adobe Photoshop, 
 
-## Awards & Recognition
+## Licenses and Certifications
 
-- Winner TechCrunch Disrupt 2001
+- 02/2023 [Responsive Web Design Certification](https://www.freecodecamp.org/certification/chelsea4568/javascript-algorithms-and-data-structures)
+- 05/2023 [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/chelsea4568/javascript-algorithms-and-data-structures)
+- 
 - People Magazine's sexiest man alive at 123 My Address, MyCity, TX
 
 ## Projects
