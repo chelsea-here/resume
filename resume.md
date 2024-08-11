@@ -18,7 +18,7 @@ subject: 'Resume'
 ### Proactive and collaborative web developer with strong communication and project management skills. Detail-oriented architect looking for an opportunity to leverage full stack coding proficiencies and grow as a professional programmer.
 
 ## Skills (Needs work)
-```programming```
+```responsive design```
 ```technical communication```
 ```user experience```
 ```containers```
