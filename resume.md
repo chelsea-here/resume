@@ -3,19 +3,19 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
+title: My Resume in Markdown
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords:
   - 'php'
   - 'mysql'
   - 'linux'
 author:
-- I am the author
-subject: 'Subject'
+- Chelsea Anne Livingston Cruz
+subject: 'Resume'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [[github.com/chelsea-here](https://github.com/chelsea-here)] . [ chelsea.al.cruz@gmail.com] . [ 832 265 0998 ]
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+### Proactive and collaborative web developer with strong communication and project management skills. Detail-oriented architect looking for an opportunity to leverage full stack coding proficiencies and grow as a professional programmer.
 
 ## Skills
 
@@ -31,21 +31,19 @@ subject: 'Subject'
 ```load/stress testing```
 ```WordPress```
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+**Languages**: JavaScript, Typescript, Python, HTML, CSS, Sass
+**Frameworks**: React, Next.js, Node.js, Tailwind CSS
 
 ## Experience
 
-### CEO and Founder, Pied Piper
+### Web Developer
 
-start-date-end-date, City, State and remote
+01/24-current, Austin, Texas and remote
 
-- Things you did/do here
-- More things that you do here.
+- Design and build web-applications for small-business clients while training in full-stack software development.
+- [vercel.com/chelsea-heres-projects](https://vercel.com/chelsea-heres-projects).
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+**Technologies used:** Next.js, React, Typescript, Tailwind, Sass, Canva, Figma.
 
 ### Senior Software Architect, Hooli
 
