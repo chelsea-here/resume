@@ -37,7 +37,7 @@ subject: 'Resume'
 01/24-Current, Austin, Texas and remote
 
 - Design and build web-applications for small-business clients while training in full-stack software development.
-- [vercel.com/chelsea-heres-projects](https://vercel.com/chelsea-heres-projects).
+- [womasong-counseling.vercel.app](https://womansong-counseling.vercel.app/)
 
 **Technologies used:** Next.js, React, Typescript, Tailwind, Sass, Canva, Figma.
 
@@ -48,7 +48,7 @@ subject: 'Resume'
 - Cross-functional team leader, laid out project schedule and directed internal team for architectural design and documentation.  Collaborated with engineers including coordinating documentation and project QA/QC.  Lead permitting efforts and coordinated with construction administration team.
 - My favorite unofficial role was software standardization and best practice documentation which helped to streamline building information modeling and increase productivity across the business.
 
-**Technologies used:** Revit Architecture, Bluebeam, Adobe Indesign, Adobe Photoshop, 
+**Technologies used:** Revit Architecture, Bluebeam, Adobe Indesign, Adobe Photoshop
 
 ## Licenses and Certifications
 
@@ -58,7 +58,7 @@ subject: 'Resume'
 
 ## Projects
 
-**[*Personal Blog*](http://luther.io)** (2021-present)
+**[*Personal Blog*](http://luther.io)** (2021-present) 
 
 - Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
 
